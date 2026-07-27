@@ -1,0 +1,26 @@
+{
+  "name": "Aspen Diamond Spire",
+  "short_name": "Aspen",
+  "description": "Aspen Diamond Spire: Where luxury, comfort and fun come together",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f1e9",
+  "theme_color": "#a9743f",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
